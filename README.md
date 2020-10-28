@@ -49,9 +49,13 @@
 </details>
 
 <br />
+
+[website]: https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html 
 <br />
-[website]: https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html
-[facebook]: https://www.facebook.com/darkstarfardin.darkstarfardin
-[twitter]: https://twitter.com/BackstarF
+[facebook]: https://www.facebook.com/darkstarfardin.darkstarfardin 
+<br />
+[twitter]: https://twitter.com/BackstarF 
+<br />
 [instagram]: https://www.instagram.com/backstar_fardin/
-[linkedin]: https://www.linkedin.com/in/fardin-bin-taher-5510851aa/)
+ <br />
+[linkedin]: https://www.linkedin.com/in/fardin-bin-taher-5510851aa/) 
