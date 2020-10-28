@@ -1,7 +1,8 @@
 ### Hi there, I'm Fardin Bin Taher 👋
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)
+[Portfolio Website][<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)
 
+<br />
 ## I'm a Student, Developer, and Musician!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -47,13 +48,8 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
+<br />
+<br />
 [website]: https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html
 [facebook]: https://www.facebook.com/darkstarfardin.darkstarfardin
 [twitter]: https://twitter.com/BackstarF
