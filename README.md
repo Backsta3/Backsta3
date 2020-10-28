@@ -1,7 +1,7 @@
 ### Hi there, I'm Fardin Bin Taher 👋
 
 [Portfolio Website][<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)
-
+[Resume Of Fardin][<img align="left" alt="codeSTACKr.com" width="22px" src="https://banner2.cleanpng.com/20180420/ypq/kisspng-pdf-computer-icons-theme-clip-art-cool-business-card-background-5ad9c522531736.0976301015242212183404.jpg" />](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)
 <br />
 ## I'm a Student, Web Developer and Musician!!
 
