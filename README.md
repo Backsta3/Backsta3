@@ -9,12 +9,6 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, play guitar, flute and sing.
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />](https://www.facebook.com/darkstarfardin.darkstarfardin)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/BackstarF)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fardin-bin-taher-5510851aa/)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/backstar_fardin/)
 
 <br />
 
@@ -50,12 +44,9 @@
 
 <br />
 
-[website]: https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html 
-<br />
-[facebook]: https://www.facebook.com/darkstarfardin.darkstarfardin 
-<br />
-[twitter]: https://twitter.com/BackstarF 
-<br />
-[instagram]: https://www.instagram.com/backstar_fardin/
- <br />
-[linkedin]: https://www.linkedin.com/in/fardin-bin-taher-5510851aa/) 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />](https://www.facebook.com/darkstarfardin.darkstarfardin)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/BackstarF)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fardin-bin-taher-5510851aa/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/backstar_fardin/)
