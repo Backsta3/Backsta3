@@ -34,10 +34,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 
-2. 
-3. 
-4. 
+1. [Creative Agency](https://github.com/Backsta3/Fardin-creative-agency-LiveSite.git)
+2. [Volunteers Network](https://github.com/Backsta3/fardin-ass-10-volunteer-live.git)
+3. [Travel Guru](https://github.com/Backsta3/assignment-9-travel.git)
+4. [Lyrics-App](https://github.com/Backsta3/Lyrics-App.git)
 <!--END_SECTION:activity-->
 
 </details>
