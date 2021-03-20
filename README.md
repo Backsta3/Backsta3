@@ -1,6 +1,6 @@
 ### Hi there, I'm Fardin Bin Taher 👋
 
-[Portfolio Website][<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)
+[Portfolio Website][<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://fardin-bt.web.app/)
 
 <br />
 
